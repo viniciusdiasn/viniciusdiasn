@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me: 
 👌 Em busca de aprendizado e novas experiências<br>📚 Formado em Python e Estudando HTML 5 e CSS<br>💯Aprofundando em Front-end em constante evolução
 
 
